@@ -376,6 +376,58 @@ destruir a su propio creador.
   carecer el emisor de la facultad fáctica de disposición sobre el
   objeto.
 
+### **11. Argumentos complementarios: La Naturaleza Fiduciaria del Poder Público** 
+
+Descomponiendo la estructura del Estado hasta su axioma más básico, el
+ordenamiento jurídico no otorga a los gobernantes el título de
+"propietarios" de la nación, sino el de **administradores fiduciarios**.
+La soberanía originaria pertenece de manera intransferible al pueblo.
+
+Por principio de transducción legal (lo que aplica a un mandato civil
+básico aplica exactamente igual a un mandato estatal): un administrador
+de bienes no tiene la capacidad jurídica para disolver, vender o regalar
+la propiedad de su mandante. Por consiguiente, cuando el Poder Ejecutivo
+suscribe un tratado internacional que transfiere la jurisdicción de sus
+tribunales supremos o somete su Constitución a cortes transnacionales,
+está cometiendo un **fraude fiduciario**. El Estado no puede comprometer
+internacionalmente un activo (la identidad constitucional y los derechos
+fundamentales) del cual no tiene título de propiedad, sino solo mandato
+de administración. Todo pacto cimentado sobre un objeto ajeno es nulo de
+pleno derecho.
+
+#### **12. La Inexistencia Jurídica del Acto Ultra Vires (Enfoque Lineal y Regla de Causalidad)**
+
+Bajo una secuencia lineal estricta (Causa → Efecto), la firma de un
+tratado es un efecto derivado de la competencia que otorga la
+Constitución (la causa). La regla inmutable de la física y de la lógica
+jurídica determina que un efecto jamás puede poseer facultades
+superiores a las de la causa que le dio origen.
+
+En consecuencia, si un tratado vulnera los límites materiales del
+mandato representativo, la sanción jurídica no es la mera
+"inaplicabilidad" o un "conflicto de interpretación". La sanción técnica
+es la **inexistencia jurídica radical (*Void ab initio*)**. El Estado no
+está "incumpliendo" el Artículo 27 de la Convención de Viena, porque en
+la línea temporal de validez, el consentimiento viciado nunca logró
+materializarse fáctica ni legalmente. No se puede exigir el cumplimiento
+transnacional de un acto que, por exceso de poder (*ultra vires*), nació
+muerto en su jurisdicción de origen.
+
+#### 
+
+#### El Principio de Irretroactividad Destructiva
+
+Un tratado internacional, como contrato temporal entre naciones, rige
+hacia el futuro sobre materias de libre disposición. Sin embargo, la
+aplicación dogmática del Artículo 27 pretende operar como una máquina
+del tiempo jurídica: utiliza un acuerdo firmado en 1969 para destruir,
+alterar o someter de forma retroactiva el pacto social originario (la
+Constitución) y los derechos naturales preexistentes que justifican la
+existencia misma de la nación. Aceptar que una norma de política
+exterior posterior tenga la potencia destructiva para anular el núcleo
+del derecho interno originario es subvertir por completo la flecha
+lineal del tiempo y la jerarquía de las fuentes del derecho.
+
 ## 11. Nota Aclaratoria de Naturaleza Doctrinal y Alcance Conceptual
 
 El presente documento no constituye un acto legislativo, una imposición
