@@ -428,7 +428,7 @@ exterior posterior tenga la potencia destructiva para anular el núcleo
 del derecho interno originario es subvertir por completo la flecha
 lineal del tiempo y la jerarquía de las fuentes del derecho.
 
-## 11. Nota Aclaratoria de Naturaleza Doctrinal y Alcance Conceptual
+## 13. Nota Aclaratoria de Naturaleza Doctrinal y Alcance Conceptual
 
 El presente documento no constituye un acto legislativo, una imposición
 normativa de carácter vinculante, ni el ejercicio de una facultad
@@ -450,7 +450,7 @@ profesionales del derecho y a las autoridades constituidas de cada
 Estado evaluar la viabilidad material, la adopción y la transposición
 procesal de los conceptos aquí desarrollados.
 
-## 12. Cláusula de Disponibilidad Pública Universal y Bien Común (Copyleft Jurisprudencial)
+## 14. Cláusula de Disponibilidad Pública Universal y Bien Común (Copyleft Jurisprudencial)
 
 El autor y titular originario de la conceptualización, matriz lógica y
 estructura argumentativa contenida en este instrumento, declara la
