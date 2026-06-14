@@ -531,7 +531,7 @@ supremo de la *Lex Superior*. Frente a la defensa del derecho natural a
 la vida y la integridad ontológica, la soberanía del Estado no es
 oponible; es, por el contrario, garante y servidora de dichos axiomas.
 
-### **SECCIÓN DE REFUTACIÓN SISTEMÁTICA Y DEFENSA DE LA COHERENCIA NORMATIVA**
+### **14. SECCIÓN DE REFUTACIÓN SISTEMÁTICA Y DEFENSA DE LA COHERENCIA NORMATIVA**
 
 #### 
 
@@ -879,7 +879,102 @@ transnacional invocada y ordenando el estricto cumplimiento de la Ley
 Superior constitucional, restituyendo el orden natural y pacífico de las
 fuentes del derecho.
 
-## 14. Nota Aclaratoria de Naturaleza Doctrinal y Alcance Conceptual
+### **15. DOCTRINA DE LA IDENTIDAD CONSTITUCIONAL NO DELEGABLE**
+
+Los siguientes argumentos traducen los principios universales de orden,
+causalidad y jerarquía en conceptos estrictamente jurídicos y laicos. Se
+prescinde por completo de citas textuales o referencias nominativas de
+carácter religioso, operando bajo una transducción simbólica abstracta
+donde la estructura lógica original se codifica en pura dogmática
+constitucional e internacional.
+
+#### 
+
+#### I. El Axioma de Adscripción Jurisdiccional y Titularidad de la Competencia
+
+El ejercicio de las potestades normativas en el ámbito internacional se
+rige por el principio de delimitación estricta de la propiedad jurídica.
+El alcance de un tratado internacional se restringe, por su propia
+naturaleza transaccional, a aquellos objetos y materias fungibles que
+los Estados de mutuo acuerdo deciden coordinar (asistencia mutua,
+aranceles o cooperación técnica).
+
+Por el contrario, la identidad constitucional y las garantías
+ontológicas de la población no pertenecen al ámbito de libre disposición
+de la diplomacia. Estos elementos ostentan de forma exclusiva el sello y
+la titularidad inalienable del Poder Constituyente Originario. En
+consecuencia, cuando un órgano derivado pretende invocar una regla de
+cumplimiento convencional para intervenir en el núcleo inmutable del
+Estado, incurre en una extralimitación de su esfera de adjudicación. El
+instrumento internacional carece de validez y aplicabilidad sobre un
+patrimonio jurídico que, por diseño de origen, jamás ha estado sujeto a
+la jurisdicción de la autoridad transnacional.
+
+#### 
+
+#### II. El Teorema de No Subversión de la Fuente Generatriz
+
+Todo ordenamiento jurídico se estructura sobre una secuencia cronológica
+y ontológica irreversible: la norma creadora determina el marco de
+validez de la norma creada. La Constitución actúa como la fuente
+generatriz; el tratado internacional opera como el producto derivado y
+condicionado.
+
+Bajo esta flecha lineal de causalidad, representa una contradicción
+lógica insostenible pretender que una directriz de orden secundario o
+una regla procedimental de observancia posterior (como el artículo 27 de
+la Convención de Viena) posea la potencia jurídica de vaciar de
+contenido, subordinar o extinguir la norma fundamental que le otorgó la
+existencia. Admitir la postura opuesta validaría la subversión de la
+regla de reconocimiento, asumiendo el absurdo de que el objeto delegado
+tiene la facultad de anular retroactivamente la legalidad de su matriz
+habilitante. Por tanto, la exigencia de cumplimiento internacional se
+detiene en el instante preciso en que colisiona con la subsistencia de
+su propia causa creadora.
+
+#### III. La Doctrina del Arquetipo Constitucional Originario y los Límites del Mandato Fiduciario
+
+Las patologías interpretativas que conducen a la expansión ilegítima de
+las competencias de los tribunales extranjeros se corrigen mediante el
+retorno al diseño original del Estado de Derecho. El arquetipo
+fundacional de la República establece que la soberanía reside en la
+colectividad y que los poderes constituidos operan únicamente bajo la
+figura de un mandato fiduciario estrictamente limitado.
+
+La constante estructural de este modelo demuestra que los agentes del
+Estado carecen de la capacidad legal para enajenar, modificar o someter
+los pilares axiológicos de la nación, puesto que nadie puede transferir
+legítimamente una facultad que no posee. Si al momento de la
+configuración del pacto social originario los legisladores y gobernantes
+tenían prohibido alterar la identidad constitucional interna, cualquier
+acuerdo internacional posterior que pretenda ejecutar dicha alteración
+por vía indirecta adolece de un vicio de nulidad radical por exceso de
+poder (*ultra vires*), careciendo de toda fuerza vinculante en el
+presente.
+
+#### 
+
+#### IV. La Supremacía de la Sustancia Axiológica sobre la Regla Procedimental
+
+El formalismo internacionalista incurre en un error metodológico al
+otorgar un carácter absoluto a las cláusulas operativas de cumplimiento
+formal, equiparándolas con los principios sustanciales del derecho.
+Exigir la sumisión incondicional de un Estado ante una directriz
+transnacional que lesiona su coto vedado constitucional implica
+priorizar una norma de orden netamente adjetivo y procedimental (la
+regularidad del compromiso externo) por encima de los fines supremos del
+ordenamiento jurídico (la justicia, la seguridad jurídica y los derechos
+fundamentales preexistentes).
+
+Ningún sistema de derecho puede sostenerse si el mecanismo accesorio
+adquiere la facultad de destruir a la sustancia material que justifica
+la existencia del aparato institucional. Ante una colisión de esta
+magnitud, la interpretación armónica y pacífica exige que la regla
+formal ceda ante la primacía de lo sustancial, garantizando que el
+derecho internacional actúe como un instrumento para perfeccionar el
+orden de la República y jamás como una herramienta para su aniquilación.
+
+## 16. Nota Aclaratoria de Naturaleza Doctrinal y Alcance Conceptual
 
 El presente documento no constituye un acto legislativo, una imposición
 normativa de carácter vinculante, ni el ejercicio de una facultad
@@ -901,7 +996,7 @@ profesionales del derecho y a las autoridades constituidas de cada
 Estado evaluar la viabilidad material, la adopción y la transposición
 procesal de los conceptos aquí desarrollados.
 
-## 15. Cláusula de Disponibilidad Pública Universal y Bien Común (Copyleft Jurisprudencial)
+## 17. Cláusula de Disponibilidad Pública Universal y Bien Común (Copyleft Jurisprudencial)
 
 El autor y titular originario de la conceptualización, matriz lógica y
 estructura argumentativa contenida en este instrumento, declara la
