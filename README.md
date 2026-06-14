@@ -305,7 +305,7 @@ existen núcleos axiológicos intangibles—denominados en la doctrina
 clásica como cláusulas pétreas o el "coto vedado"—que se resisten a
 cualquier intento de supresión. Estos límites materiales incluyen:
 
-- La dignidad y los derechos ontológicos e inalienables del individuo.
+- La dignidad y los derechos Ónticos e inalienables del individuo.
 
 - La soberanía popular como fuente exclusiva de legitimidad.
 
@@ -410,8 +410,9 @@ es la **inexistencia jurídica radical (*Void ab initio*)**. El Estado no
 está "incumpliendo" el Artículo 27 de la Convención de Viena, porque en
 la línea temporal de validez, el consentimiento viciado nunca logró
 materializarse fáctica ni legalmente. No se puede exigir el cumplimiento
-transnacional de un acto que, por exceso de poder (*ultra vires*), nació
-muerto en su jurisdicción de origen.
+transnacional de un acto que, por exceso de poder (*ultra vires*), Acto
+afectado de invalidez congénita e ineficacia jurídica interna
+insubsanable en su jurisdicción de origen.
 
 #### 
 
@@ -676,8 +677,8 @@ oponible; es, por el contrario, garante y servidora de dichos axiomas.
   verdaderos derechos humanos no pueden ser instrumentalizados para
   destruir el régimen constitucional que les sirve de soporte y
   ejecución material. Esta doctrina, lejos de desproteger al individuo,
-  blinda sus derechos ontológicos contra imposiciones foráneas que
-  carecen de legitimidad democrática directa.
+  blinda sus derechos Ónticos contra imposiciones foráneas que carecen
+  de legitimidad democrática directa.
 
 #### 7: La supuesta contradicción con el principio fundamental Pacta Sunt Servanda
 
@@ -754,7 +755,7 @@ de esta Constitución.
 poderes constituidos la transferencia, delegación o sumisión de aquellas
 materias que configuran la identidad fundacional del Estado, tales como
 la soberanía popular, el régimen republicano, la separación de poderes y
-los derechos ontológicos e inalienables de la persona humana, los cuales
+los derechos Ónticos e inalienables de la persona humana, los cuales
 constituyen el coto vedado material de la República.
 
 **PARÁGRAFO II.** Todo tratado, pacto o directriz transnacional que
@@ -1016,8 +1017,9 @@ plenamente válido.**
 La validez de un compromiso internacional no se agota en la mera forma
 visible del documento firmado; depende de la regularidad invisible de
 los consentimientos que lo integran. Es aquí donde la técnica de
-desalineación estructural deconstruye el dogma internacionalista
-mediante dos realidades normativas incuestionables:
+Incompatibilidad óntico-normativa por desbordamiento de las facultades
+del mandato fiduciario deconstruye el dogma internacionalista mediante
+dos realidades normativas incuestionables:
 
 - **La Ilusión del Consentimiento Autónomo:** Los Estados no manifiestan
   su voluntad a nivel transnacional a través de entidades místicas, sino
@@ -1047,8 +1049,9 @@ procesal no confronta directamente al derecho internacional en su propio
 foro, sino que opera como un filtro de contención simétrico dentro del
 ordenamiento doméstico.
 
-Las **Cinco Leyes Superiores** que se despliegan a continuación no
-constituyen una invención teórica coyuntural; son la explicitación de
+Las **Cinco Axiomas inmutables de la teoría general del derecho y
+principios de rigidez constitucional** que se despliegan a continuación
+no constituyen una invención teórica coyuntural; son la explicitación de
 las constantes estructurales que gobiernan la validez jurídica general.
 Al someter cualquier disposición convencional a este examen de
 correspondencia geométrica, el operador jurídico descubrirá que la
@@ -1068,8 +1071,8 @@ su decencia jerárquica.
 
 <table>
 <colgroup>
-<col style="width: 20%" />
-<col style="width: 79%" />
+<col style="width: 23%" />
+<col style="width: 76%" />
 </colgroup>
 <thead>
 <tr>
@@ -1080,18 +1083,18 @@ su decencia jerárquica.
 <tbody>
 <tr>
 <td><p><strong>1. QUÉ (Quid):</strong></p>
-<p>Supuesto de Hecho Ontológico de la Ley Superior.</p></td>
+<p>Supuesto de Hecho como Presupuesto Existencial de la Ley
+Superior.</p></td>
 <td>El supuesto de hecho radica en la subordinación existencial y de
 validez que experimenta toda norma jurídica derivada o secundaria (el
 derecho convencional internacional) respecto de su norma matriz
 originaria (la norma constitucional de competencia). Ontológicamente, la
 fuerza obligatoria del pacto internacional no es autónoma ni
-auto-sostenida; está supeditada a que el acto formal de obligarse
-refleje fielmente la estructura y los límites fijados por la
-constitución interna. Si la norma derivada pretende subvertir la norma
-matriz, se produce una disolución inmediata de su sustancia jurídica,
-quedando el acto formal desprovisto de juridicidad y de fuerza
-vinculante.</td>
+autosostenida; está supeditada a que el acto formal de obligarse refleje
+fielmente la estructura y los límites fijados por la constitución
+interna. Si la norma derivada pretende subvertir la norma matriz, se
+produce una disolución inmediata de su sustancia jurídica, quedando el
+acto formal desprovisto de juridicidad y de fuerza vinculante.</td>
 </tr>
 <tr>
 <td><p><strong>2. QUIÉN (Quis):</strong></p>
@@ -1124,8 +1127,9 @@ previa.</td>
 <tr>
 <td><p><strong>4. DÓNDE (Ubi):</strong></p>
 <p>Ámbito Jurisdiccional e Invasión Ultra Vires.</p></td>
-<td>La desalineación estructural se localiza en la zona de convergencia
-intersistémica, específicamente en el punto donde las obligaciones
+<td>La Incompatibilidad óntico-normativa por desbordamiento de las
+facultades del mandato fiduciario se localiza en la zona de convergencia
+Intersistémica, específicamente en el punto donde las obligaciones
 convencionales del Artículo 27 de la Convención de Viena pretenden
 penetrar y desplazar el control constitucional interno. La frontera
 jurisdiccional infranqueable es el coto vedado del Estado soberano,
@@ -1137,15 +1141,16 @@ emitidas <em>ultra vires</em>.</td>
 <tr>
 <td><p><strong>5. POR QUÉ (Cur):</strong></p>
 <p>Fundamento de Invalidez de la Norma Derivada.</p></td>
-<td>El fundamento de la invalidez indirecta estriba en la desalineación
-estructural frente a la causa generatriz del derecho. Un ordenamiento
-jurídico racional no puede validar una norma derivada (el tratado) que
-destruye su propia premisa de validez (la Constitución), ya que esto
-aniquilaría el principio de no contradicción. Al erosionar la norma de
-competencia que le confirió la existencia, el tratado destruye su propia
-causa eficiente, lo que provoca su ineficacia radical dentro del orden
-interno y activa de forma automática la excepción del Artículo 46 de la
-Convención de Viena.</td>
+<td>El fundamento de la invalidez indirecta estriba en la
+Incompatibilidad óntico-normativa por desbordamiento de las facultades
+del mandato fiduciario frente a la Fuente habilitante de la competencia
+originaria del derecho. Un ordenamiento jurídico racional no puede
+validar una norma derivada (el tratado) que destruye su propia premisa
+de validez (la Constitución), ya que esto aniquilaría el principio de no
+contradicción. Al erosionar la norma de competencia que le confirió la
+existencia, el tratado destruye su propia causa eficiente, lo que
+provoca su ineficacia radical dentro del orden interno y activa de forma
+automática la excepción del Artículo 46 de la Convención de Viena.</td>
 </tr>
 <tr>
 <td><p><strong>6. CÓMO (Quomodo):</strong></p>
@@ -1178,7 +1183,7 @@ blanda cuando la identidad constitucional esté comprometida.</td>
 <p>Falacias del Positivismo Internacionalista.</p></td>
 <td>El positivismo internacionalista radical incurre en graves falacias
 teóricas al asumir dogmáticamente que el derecho internacional goza de
-una validez autónoma y autofundada, desconociendo que la capacidad de
+una validez autónoma y auto fundada, desconociendo que la capacidad de
 obligarse del Estado se deriva de su propia arquitectura constitucional.
 Asimismo, sufre de un aislamiento hermenéutico al interpretar el
 Artículo 27 de la Convención de Viena de forma desvinculada del Artículo
@@ -1230,8 +1235,8 @@ violación del mandato fiduciario primario.</td>
 
 <table>
 <colgroup>
-<col style="width: 20%" />
-<col style="width: 79%" />
+<col style="width: 23%" />
+<col style="width: 76%" />
 </colgroup>
 <thead>
 <tr>
@@ -1242,9 +1247,10 @@ violación del mandato fiduciario primario.</td>
 <tbody>
 <tr>
 <td><p><strong>1. QUÉ (Quid):</strong></p>
-<p>Supuesto de Hecho Ontológico de la Ley Superior.</p></td>
+<p>Supuesto de Hecho como Presupuesto Existencial de la Ley
+Superior.</p></td>
 <td>El supuesto de hecho establece la indisponibilidad absoluta,
-inalienabilidad e intransferibilidad de las competencias de rango
+inalienabilidad y transferibilidad de las competencias de rango
 constitucional originario por parte de los poderes constituidos. La
 estructura invisible y sustancial de un Estado soberano reside en su
 potestad primigenia de autodeterminación jurídica
@@ -1253,7 +1259,7 @@ como un mecanismo de transferencia o abdicación de funciones esenciales
 que definen la identidad del texto constitucional. Cualquier convención
 formal que pretenda enajenar o vaciar de contenido estas potestades
 supremas incurre en una desalineación insubsanable, pues la forma
-visible de un acuerdo internacional carece del sustrato ontológico para
+visible de un acuerdo internacional carece de la naturaleza óntica para
 contener o suplantar la soberanía del Estado.</td>
 </tr>
 <tr>
@@ -1307,14 +1313,15 @@ orden interno.</td>
 <td>El fundamento de la invalidez indirecta estriba en que ningún
 mandatario puede transferir una cantidad de poder o derechos mayor de la
 que legítimamente posee (<em>Nemo dat quod non habet</em>). La
-desalineación estructural frente a la causa generatriz es flagrante: si
-el poder constituido utiliza la vía convencional internacional para
-enajenar la competencia originaria, socava los cimientos que sostienen
-su propia facultad para celebrar tratados. Esta quiebra del principio de
-coherencia del ordenamiento provoca que la norma internacional sea
-intrínsecamente nula a la luz del Artículo 46 de la Convención de Viena,
-al constituir una violación manifiesta de una norma interna de
-importancia fundamental.</td>
+Incompatibilidad óntico-normativa por desbordamiento de las facultades
+del mandato fiduciario frente a la Fuente habilitante de la competencia
+originaria es flagrante: si el poder constituido utiliza la vía
+convencional internacional para enajenar la competencia originaria,
+socava los cimientos que sostienen su propia facultad para celebrar
+tratados. Esta quiebra del principio de coherencia del ordenamiento
+provoca que la norma internacional sea intrínsecamente nula a la luz del
+Artículo 46 de la Convención de Viena, al constituir una violación
+manifiesta de una norma interna de importancia fundamental.</td>
 </tr>
 <tr>
 <td><p><strong>6. CÓMO (Quomodo):</strong></p>
@@ -1406,8 +1413,8 @@ PROCEDIMENTAL**
 
 <table>
 <colgroup>
-<col style="width: 20%" />
-<col style="width: 79%" />
+<col style="width: 23%" />
+<col style="width: 76%" />
 </colgroup>
 <thead>
 <tr>
@@ -1418,7 +1425,8 @@ PROCEDIMENTAL**
 <tbody>
 <tr>
 <td><p><strong>1. QUÉ (Quid):</strong></p>
-<p>Supuesto de Hecho Ontológico de la Ley Superior.</p></td>
+<p>Supuesto de Hecho como Presupuesto Existencial de la Ley
+Superior.</p></td>
 <td>El supuesto fáctico se configura ante el intento de suplantar la
 sustancia material y axiológica del ordenamiento constitucional por
 medio de la observancia ciega de una forma procedimental externa de
@@ -1480,14 +1488,16 @@ locales de toda formalidad externa desalineada.</td>
 <p>Fundamento de Invalidez de la Norma Derivada.</p></td>
 <td>El fundamento de la invalidez indirecta estriba en que la forma no
 puede subsistir sin la sustancia que le confiere sentido y dirección. Se
-produce una evidente desalineación estructural frente a la causa
-generatriz del derecho si se otorga preferencia a un rito formal de
-derecho convencional por encima de los valores de justicia material de
-la Constitución. Admitir el imperio de la forma sobre la sustancia
-equivaldría a convalidar la disolución del principio de identidad del
-ordenamiento y la aniquilación de la seguridad jurídica elemental, lo
-que activa plenamente el Artículo 46 de la Convención de Viena por la
-quiebra flagrante de la coherencia interna sustantiva.</td>
+produce una evidente Incompatibilidad óntico-normativa por
+desbordamiento de las facultades del mandato fiduciario frente a la
+Fuente habilitante de la competencia originaria del derecho si se otorga
+preferencia a un rito formal de derecho convencional por encima de los
+valores de justicia material de la Constitución. Admitir el imperio de
+la forma sobre la sustancia equivaldría a convalidar la disolución del
+principio de identidad del ordenamiento y la aniquilación de la
+seguridad jurídica elemental, lo que activa plenamente el Artículo 46 de
+la Convención de Viena por la quiebra flagrante de la coherencia interna
+sustantiva.</td>
 </tr>
 <tr>
 <td><p><strong>6. CÓMO (Quomodo):</strong></p>
@@ -1527,7 +1537,7 @@ de sus contenidos sustanciales. Su razonamiento se encuentra aislado al
 divorciar la validez de los tratados de la legitimidad axiológica de los
 Estados creadores, y al cercenar el Artículo 27 de la Convención de
 Viena de las exigencias sustantivas de validez del consentimiento
-previstas en el Artículo 46 del mismo ordenamiento intersistémico.</td>
+previstas en el Artículo 46 del mismo ordenamiento Intersistémica.</td>
 </tr>
 <tr>
 <td><p><strong>9. EMBUDO DE SOLUCIONES:</strong></p>
@@ -1576,8 +1586,8 @@ pretensiones del absolutismo formalista internacional.</td>
 
 <table>
 <colgroup>
-<col style="width: 20%" />
-<col style="width: 79%" />
+<col style="width: 23%" />
+<col style="width: 76%" />
 </colgroup>
 <thead>
 <tr>
@@ -1588,7 +1598,8 @@ pretensiones del absolutismo formalista internacional.</td>
 <tbody>
 <tr>
 <td><p><strong>1. QUÉ (Quid):</strong></p>
-<p>Supuesto de Hecho Ontológico de la Ley Superior.</p></td>
+<p>Supuesto de Hecho como Presupuesto Existencial de la Ley
+Superior.</p></td>
 <td>El supuesto de hecho descansa en el principio de autoconservación
 sistémica, el cual establece que ninguna norma derivada o pacto
 convencional puede albergar mandatos que operen la disolución, colapso o
@@ -1649,16 +1660,18 @@ se ejecuten dentro del territorio soberano.</td>
 <td><p><strong>5. POR QUÉ (Cur):</strong></p>
 <p>Fundamento de Invalidez de la Norma Derivada.</p></td>
 <td>El fundamento de la invalidez indirecta radica en la defensa del
-principio de no contradicción y en la preservación de la causa
-generatriz del derecho. Si un tratado internacional exige para su
-cumplimiento la aniquilación de la norma constitucional que lo habilitó,
-se genera una desalineación estructural insalvable donde la consecuencia
-pretende suprimir a su propia premisa. Permitir la primacía absoluta del
-Artículo 27 de la Convención de Viena en este escenario equivaldría a
-admitir que una norma secundaria posee la virtud de extinguir la fuente
-de su propia validez, lo que activa de forma inexorable la invalidez por
-vía del Artículo 46 debido a la flagrante violación de las reglas de
-competencia de importancia fundamental.</td>
+principio de no contradicción y en la preservación de la Fuente
+habilitante de la competencia originaria del derecho. Si un tratado
+internacional exige para su cumplimiento la aniquilación de la norma
+constitucional que lo habilitó, se genera una Incompatibilidad
+óntico-normativa por desbordamiento de las facultades del mandato
+fiduciario insalvable donde la consecuencia pretende suprimir a su
+propia premisa. Permitir la primacía absoluta del Artículo 27 de la
+Convención de Viena en este escenario equivaldría a admitir que una
+norma secundaria posee la virtud de extinguir la fuente de su propia
+validez, lo que activa de forma inexorable la invalidez por vía del
+Artículo 46 debido a la flagrante violación de las reglas de competencia
+de importancia fundamental.</td>
 </tr>
 <tr>
 <td><p><strong>6. CÓMO (Quomodo):</strong></p>
@@ -1692,7 +1705,7 @@ instrumento de su propia destrucción.</td>
 <tr>
 <td><p><strong>8. PUNTOS CIEGOS:</strong></p>
 <p>Falacias del Positivismo Internacionalista.</p></td>
-<td>El positivismo radical internacionalista adece de un punto ciego
+<td>El positivismo radical internacionalista adolece de un punto ciego
 fundamental al sostener el <strong>dogma de la inmunidad
 convencional</strong>, presumiendo que el Artículo 27 de Viena opera
 como una cláusula de absolución universal que valida desbordamientos
@@ -1724,7 +1737,7 @@ principio de autoconservación sistémica</strong>. La resolución judicial
 ordena la inaplicación absoluta del tratado internacional en el ámbito
 interno, decreta la nulidad de todo acto administrativo o legislativo
 derivado del mismo, e instruye al Poder Ejecutivo a plantear de
-inmediato ante los organismos internacionales y Estados co-contratantes
+inmediato ante los organismos internacionales y Estados cocontratantes
 la nulidad absoluta del consentimiento del Estado por la vía del
 Artículo 46 de la Convención de Viena, salvaguardando la integridad del
 ordenamiento.</td>
@@ -1753,8 +1766,8 @@ hermética.</td>
 
 <table>
 <colgroup>
-<col style="width: 20%" />
-<col style="width: 79%" />
+<col style="width: 23%" />
+<col style="width: 76%" />
 </colgroup>
 <thead>
 <tr>
@@ -1765,7 +1778,8 @@ hermética.</td>
 <tbody>
 <tr>
 <td><p><strong>1. QUÉ (Quid):</strong></p>
-<p>Supuesto de Hecho Ontológico de la Ley Superior.</p></td>
+<p>Supuesto de Hecho como Presupuesto Existencial de la Ley
+Superior.</p></td>
 <td>El supuesto de hecho establece la exigencia de simetría y
 correspondencia exacta que debe existir entre cualquier norma o
 compromiso convencional externo (la forma visible) y los planos
@@ -1774,7 +1788,8 @@ invisible). La validez de un derivado jurídico no depende únicamente de
 la regularidad de su trámite, sino de su fidelidad geométrica con los
 principios del diseño originario. Si un tratado internacional introduce
 elementos discordantes que deforman las líneas maestras de la
-Constitución, se produce una desalineación estructural instantánea que
+Constitución, se produce una Incompatibilidad óntico-normativa por
+desbordamiento de las facultades del mandato fiduciario instantánea que
 despoja al instrumento formal de su aptitud para integrarse válidamente
 en el cuerpo normativo interno.</td>
 </tr>
@@ -1795,7 +1810,8 @@ del agente, desprovista de legitimidad de origen.</td>
 <tr>
 <td><p><strong>3. CUÁNDO (Quando):</strong></p>
 <p>Ámbito Temporal de la Transgresión.</p></td>
-<td>La desalineación estructural ocurre de manera sincrónica en el
+<td>La Incompatibilidad óntico-normativa por desbordamiento de las
+facultades del mandato fiduciario ocurre de manera sincrónica en el
 <strong>instante genético de la manifestación del
 consentimiento</strong> a nivel internacional. El vicio de asimetría
 nace con el tratado mismo, configurando un defecto congénito e
@@ -1823,15 +1839,16 @@ desalineada.</td>
 <td><p><strong>5. POR QUÉ (Cur):</strong></p>
 <p>Fundamento de Invalidez de la Norma Derivada.</p></td>
 <td>El fundamento de la invalidez indirecta radica en el fracaso de la
-transducción normativa por desalineación estructural frente a la causa
-generatriz. Un sistema jurídico racional no puede certificar la validez
-de una copia o norma derivada que desfigura el molde original del cual
-extrae su propia existencia. Dar primacía incondicional al Artículo 27
-de la Convención de Viena en presencia de una asimetría de diseño
-equivaldría a validar la destrucción del principio de identidad del
-ordenamiento, lo que justifica la aplicación de la excepción de validez
-del consentimiento regulada en el Artículo 46 del mismo cuerpo
-convencional.</td>
+transducción normativa por Incompatibilidad óntico-normativa por
+desbordamiento de las facultades del mandato fiduciario frente a la
+Fuente habilitante de la competencia originaria. Un sistema jurídico
+racional no puede certificar la validez de una copia o norma derivada
+que desfigura el molde original del cual extrae su propia existencia.
+Dar primacía incondicional al Artículo 27 de la Convención de Viena en
+presencia de una asimetría de diseño equivaldría a validar la
+destrucción del principio de identidad del ordenamiento, lo que
+justifica la aplicación de la excepción de validez del consentimiento
+regulada en el Artículo 46 del mismo cuerpo convencional.</td>
 </tr>
 <tr>
 <td><p><strong>6. CÓMO (Quomodo):</strong></p>
@@ -1856,8 +1873,8 @@ purgan cualquier asimetría— y la rigidez de la alta dogmática
 constitucional, que supedita la vigencia de toda norma a su perfecta
 correspondencia con el plano de ingeniería institucional del Estado. El
 monismo internacionalista radical pasa por alto de manera sistemática
-que la regularidad procedimentaria externa es estéril si carece de
-armonía con la sustancia matriz interna.</td>
+que la regularidad procedimental externa es estéril si carece de armonía
+con la sustancia matriz interna.</td>
 </tr>
 <tr>
 <td><p><strong>8. PUNTOS CIEGOS:</strong></p>
@@ -1951,10 +1968,12 @@ siguientes premisas de rendimiento:
   acto *ultra vires*.
 
 - **Beneficio de Adopción (Ganancia Infinita):** Si el litigante
-  incorpora las cinco leyes superiores a su arsenal argumentativo,
-  adquiere un blindaje procesal inatacable. Incluso si los tribunales
-  inferiores iniciales muestran resistencia, la consistencia geométrica
-  de la causa generatriz fuerza una victoria estructural a largo plazo.
+  incorpora las cinco Axiomas inmutables de la teoría general del
+  derecho y principios de rigidez constitucional a su arsenal
+  argumentativo, adquiere un blindaje procesal inatacable. Incluso si
+  los tribunales inferiores iniciales muestran resistencia, la
+  consistencia geométrica de la Fuente habilitante de la competencia
+  originaria fuerza una victoria estructural a largo plazo.
 
 **Resultado del Impacto (Pascal):** Maximización obligatoria de la
 utilidad procesal. Para el abogado en general, la adopción de este
@@ -1995,7 +2014,494 @@ un fallo de inaplicación local, transformando un escenario procesal
 presumiblemente perdido en un caso con alta probabilidad de estimación
 favorable.
 
-## 16. Nota Aclaratoria de Naturaleza Doctrinal y Alcance Conceptual
+## 17. EVALUACION DE TEST DE COMPATILIDAD JURISPRUDENCIAL CON CASOS PRACTICOS:
+
+## CASO PRÁCTICO I: Sentencia de Corte Internacional de Derechos Humanos frente al Núcleo de Orden Público Interno
+
+### 
+
+### DESCRIPCIÓN DEL ESCENARIO
+
+Un tribunal transnacional de derechos humanos dicta una sentencia
+condenatoria contra el Estado, exigiéndole reconfigurar de forma
+inmediata su régimen de política criminal interna y alterar la
+definición institucional del derecho de familia local, bajo el
+apercibimiento del control de convencionalidad formal. El órgano
+internacional invoca el Artículo 27 de la Convención de Viena para
+exigir que la judicatura local inaplique las normas de rango
+constitucional que protegen el orden público doméstico.
+
+### 
+
+### MATRIZ JURISPRUDENCIAL DE DESPLAZAMIENTO (CÓDIGO: CP-01)
+
+| **Categoría Dogmática** | **Contenido del Dictamen Sustancial** |
+|----|:---|
+| **1. Identificación de la Tensión Intersistémica** | Se constata un choque normativo entre la pretensión de ejecución automática de una sentencia internacional que exige alterar el orden público interno (forma visible) y la intangibilidad del núcleo axiológico de la Carta Fundamental (sustancia invisible). La autoridad internacional invoca el absolutismo del Artículo 27 de Viena para vaciar de contenido las decisiones soberanas del Constituyente. |
+| **2. Delimitación del Coto Vedado Nacional** | La definición de la política criminal interna, el régimen de familia y la protección de la moral pública constituyen prerrogativas exclusivas del **Poder Constituyente Originario**. Dichas materias configuran la identidad constitucional inalienable del Estado y, por ende, se encuentran sustraídas de la esfera de libre disposición de los poderes constituidos y de la burocracia diplomática. |
+| **3. Activación de la Invalidez Indirecta (Art. 46 CVDT)** | El consentimiento del Estado para obligarse por el tratado internacional nunca incluyó la facultad de delegar el núcleo esencial de su identidad. Exigir la sumisión incondicional ante una directriz extranjera que desfigura la arquitectura constitucional local constituye una **violación manifiesta de una norma de importancia fundamental concerniente a la competencia**. El defecto de origen es objetivo y evidente para cualquier contraparte de buena fe. |
+| **4. Aplicación del Test de Compatibilidad** | Sometido el mandato internacional al escrutinio judicial, se determina que la directriz extranjera no representa una limitación razonable dentro de las competencias transferidas, sino una sustitución encubierta del texto constitucional por la vía de un acto *ultra vires* del agente que ratificó el acuerdo. El tratado carece de la causa jurídica necesaria para imponer dicha obligación en el foro doméstico. |
+| **5. Dictamen Resolutivo e Inaplicación Local** | El Tribunal Supremo decreta la **invalidez indirecta e inaplicabilidad absoluta** de la sentencia internacional en el territorio de la República. Se ordena a todos los jueces inferiores aplicar con preferencia estricta la norma de Lex Superior interna, suspendiendo los efectos del mandato transnacional sin necesidad de denunciar el tratado en su totalidad, restaurando el orden pacífico de las fuentes. |
+
+## CASO PRÁCTICO II: Tratado Multilateral de Integración Económica o Arbitraje Comercial de Inversiones frente a la Estructura Básica del Poder Público
+
+### 
+
+### DESCRIPCIÓN DEL ESCENARIO
+
+Un tribunal arbitral internacional, constituido bajo el amparo de un
+Tratado de Libre Comercio e Inversiones, emite un laudo que ordena al
+Estado suspender la aplicación de leyes ambientales y fiscales aprobadas
+por el parlamento nacional, argumentando que dichas leyes locales
+afectan la "expectativa legítima de ganancia" de una corporación
+transnacional. La corporación exige la ejecución forzosa del laudo
+invocando que, según el Artículo 27 de Viena, el derecho interno
+(incluidas las competencias del parlamento) no es excusa para el
+incumplimiento.
+
+### 
+
+### MATRIZ JURISPRUDENCIAL DE DESPLAZAMIENTO (CÓDIGO: CP-02)
+
+| **Categoría Dogmática** | **Contenido del Dictamen Sustancial** |
+|----|:---|
+| **1. Identificación de la Tensión Intersistémica** | La controversia se suscita cuando un laudo arbitral comercial formalizado en el plano exterior (forma) pretende congelar la potestad legislativa y tributaria del Estado soberano, exigiendo que los ritos del comercio internacional prevalezcan sobre la soberanía popular que da soporte a las leyes domésticas (sustancia). |
+| **2. Delimitación del Coto Vedado Nacional** | La potestad impositiva, la soberanía regulatoria en materia de salud pública y ambiente, y la separación de poderes del Estado son elementos estructurales indisponibles. Los gobernantes de turno actúan bajo un **Mandato Fiduciario Limitado** en calidad de administradores temporales; carecen de título de propiedad sobre la soberanía estatal para cederla o enajenarla a favor de árbitros privados transnacionales. |
+| **3. Activación de la Invalidez Indirecta (Art. 46 CVDT)** | Al pactar cláusulas de arbitraje que impliquen la abdicación de la función legislativa del Estado sobre el coto vedado, el Poder Ejecutivo incurre en un fraude fiduciario y un acto *ultra vires*. En la línea temporal de validez, el consentimiento respecto de esa cláusula específica está afectado de nulidad radical de origen por infracción manifiesta de las normas constitucionales de competencia material. |
+| **4. Aplicación del Test de Compatibilidad** | El análisis lineal demuestra que el laudo arbitral pretende que el objeto creado (el tratado de inversión) anule retroactivamente la legalidad y supervivencia de su propia matriz habilitante (la soberanía del Estado). Ante esta incompatibilidad óntica destructiva, el mecanismo procedimental de la Convención de Viena pierde su flujo de legitimidad. |
+| **5. Dictamen Resolutivo e Inaplicación Local** | Se dicta mandato judicial directo declarando la **inexistencia de obligación válida por vicio de consentimiento material**. Se inhibe de forma permanente a las autoridades de ejecución civil de homologar o ejecutar el laudo extranjero dentro del territorio nacional, blindando los activos públicos y la potestad legislativa de la República frente al absolutismo corporativo global. |
+
+## 
+
+## CASO PRÁCTICO III: Directriz o Reglamento de Organismo Multilateral (Sanitario / Ambiental) de Ejecución Automática frente a las Garantías Ontológicas del Ciudadano
+
+### 
+
+### DESCRIPCIÓN DEL ESCENARIO
+
+Un organismo multilateral supranacional emite una directriz de carácter
+"vinculante y de ejecución automática" que impone restricciones severas
+a la libertad de comercio, la propiedad privada y la movilidad de los
+ciudadanos bajo el pretexto de una emergencia global. El Poder Ejecutivo
+local pretende implementar las medidas de forma directa a través de
+decretos administrativos, aduciendo que el Artículo 27 de la Convención
+de Viena le prohíbe evaluar la constitucionalidad de la directriz
+internacional antes de su aplicación.
+
+### 
+
+### MATRIZ JURISPRUDENCIAL DE DESPLAZAMIENTO
+
+| **Categoría Dogmática** | **Contenido del Dictamen Sustancial** |
+|----|:---|
+| **1. Identificación de la Tensión Intersistémica** | El conflicto se verifica en la frontera de los derechos individuales, donde una regulación globalista emitida por un ente no electo (forma visible) exige la suspensión de las garantías fundamentales de los administrados, pretendiendo que los compromisos exteriores operen de manera inmune al control judicial de constitucionalidad local (sustancia invisible). |
+| **2. Delimitación del Coto Vedado Nacional** | Los derechos Ónticos e inalienables de la persona humana (la vida, la libertad civil, la propiedad privada y la inviolabilidad del hogar) constituyen el peldaño supremo de la *Lex Superior*. Ninguna autoridad transnacional posee jurisdicción sobre estos atributos preexistentes al Estado, y ningún tratado puede ser instrumentalizado como una patente de corso para legislar su supresión. |
+| **3. Activación de la Invalidez Indirecta (Art. 46 CVDT)** | La presunta obligatoriedad automática de la directriz multilateral choca frontalmente con el principio de jerarquía axiológica. Un tratado internacional es un canal para perfeccionar el orden de la República, jamás una herramienta para su deconstrucción. El consentimiento del Estado para integrarse a organismos multilaterales queda sin efecto por la vía del Artículo 46 cuando el instrumento exige la claudicación de los derechos fundamentales de su población. |
+| **4. Aplicación del Test de Compatibilidad** | Se aplica el Filtro de Incompetencia por Asimetría de Diseño. Se constata de forma objetiva que la aplicación forzosa de la directriz internacional implicaría un vaciamiento material de la Constitución. Dado que el derecho internacional carece de la potencia jurídica para sostener formas vacías de sustancia constitucional, el vector de transmisión de validez se quiebra de manera instantánea. |
+| **5. Dictamen Resolutivo e Inaplicación Local** | Se otorga el **Amparo a la Objeción de Jerarquía** a favor de los ciudadanos y comerciantes demandantes. Se decreta la ineficacia jurídica interna de la directriz multilateral y se sanciona con la exclusión localizada del ordenamiento doméstico. Se prohíbe al Poder Ejecutivo y a las fuerzas del orden público ejecutar cualquier sanción, multa o restricción basada en el mandato transnacional espurio, restableciendo la seguridad jurídica y las libertades fundamentales. |
+
+## 18. EVALUACION CIENTIFICA POR TRANSGRESION UNIVERSAL:
+
+## 
+
+## SECCIÓN I: PLANTEAMIENTO CIENTÍFICO Y ANATOMÍA DEL PROBLEMA
+
+### (Explicación de la Ley Aplicada y el Diagnóstico de Inversión Causal)
+
+El presente análisis implementa de forma directa la **Ley Universal de
+Precedencia Causal y el Principio de Razón Suficiente**, una constante
+estructural e inmutable que determina que ningún efecto derivado puede
+poseer mayor entidad, energía o autoridad que la causa eficiente que lo
+generó.
+
+El problema de raíz radica en que el **Artículo 27 de la Convención de
+Viena sobre el Derecho de los Tratados** ejecuta una transgresión
+directa a esta geometría universal: postula de manera absolutista que
+una ley menor formal (el tratado) puede superponerse e invalidar la
+sustancia de la ley superior sustancial (la Constitución) que le otorgó
+el consentimiento para existir. Esta anomalía pretende forzar una
+inversión causal donde el objeto creado adquiere la potestad de anular a
+su propio creador.
+
+Frente a esta patología de diseño, la evidencia diagnóstica no radica en
+matizar o rebajar el planteamiento, sino en someter la regla adjetiva
+transnacional al rigor de la ley universal a través de cinco enunciados
+dogmáticos estructurados bajo el bucle de doble validación,
+identificación del fallo de origen y describiendo la asimetría necesaria
+para blindar el coto vedado constitucional.
+
+## SECCIÓN II: DESARROLLO DE LA SOLUCIÓN
+
+### 
+
+### ENUNCIADO I: El Axioma del Diseño Universal (La Ley de Precedencia Causal)
+
+- **Ámbito de Demostración Lógica:** Se constata que la teoría jurídica
+  secular pretende ignorar que los sistemas normativos no se auto fundan
+  en el vacío. Al aislar el texto positivo de su fuente generatriz, el
+  positivismo radical intenta crear una realidad jurídica visible que
+  desconoce la existencia de la fuerza invisible que la sostiene y le da
+  vida.
+
+- **Ámbito de Demostración Lógica (Consecuencia Estructural):** Sometido
+  al diseño universal, Se constata geométricamente el axioma
+  irreversible de causalidad:
+
+> B $`\leq`$ A
+>
+> Donde la causa eficiente (A) predetermina y limita de manera absoluta
+> al efecto derivado (B). Lo invisible (la competencia originaria y la
+> norma fundamental de reconocimiento) gobierna de forma perentoria
+> sobre lo visible (el tratado internacional). Ningún producto de la
+> voluntad humana puede independizarse de la matriz de la cual emana su
+> validez sin disolverse normativamente.
+
+### 
+
+### ENUNCIADO II: El Diagnóstico Científico del Quebrantamiento (La Anomalía del Artículo 27)
+
+- **Ámbito de Demostración Lógica:** El Artículo 27 de la Convención de
+  Viena opera como una anomalía de diseño al postular que un compromiso
+  convencional formalizado en el plano exterior posee una jerarquía tal
+  que puede obligar a la inaplicación o destrucción del núcleo duro de
+  la Constitución interna que lo habilitó. Esto representa la imposición
+  forzada de una inversión causal científicamente imposible:
+
+> B \> A
+
+- **Ámbito de Demostración Lógica (Consecuencia Estructural):** El
+  análisis demuestra que esta formulación internacionalista carece de
+  masa jurídica y suficiencia óntica. Al intentar que el objeto
+  creado (B) ejecute la extinción o subordinación de su propio creador
+  (A), el tratado destruye la base fiduciaria que sostenía su propia
+  obligatoriedad. La ley menor adjetiva colapsa por sobrecarga
+  estructural ante la presencia inmutable de la ley superior de la
+  soberanía constituyente.
+
+### 
+
+### ENUNCIADO III: La Ineficacia de la Defensa Basada en la Infracción
+
+- **Ámbito de Demostración Lógica:** Se aísla el razonamiento circular y
+  falaz de las cortes transnacionales, las cuales pretenden utilizar el
+  texto literal del Artículo 27 como una patente de corso automática
+  para blindar actos *ultra vires*. Argumentar que el derecho interno no
+  es excusa para el incumplimiento es una defensa que toma la
+  transgresión misma como su propia fuente de validación jurídica.
+
+- **Ámbito de Demostración Lógica (Consecuencia Estructural):** Se
+  expone la falta de masa jurídica de absoluta del escudo formalista
+  internacional. Cuando una norma de menor jerarquía quebranta el coto
+  vedado, la razón de dicho quebrantamiento jamás puede constituir un
+  motivo legítimo para defender su imperio. La quiebra del diseño
+  original priva al mandato de licitud en su objeto; por ende, el
+  Artículo 27 queda neutralizado y desprovisto de fuerza ejecutoria en
+  el foro doméstico por carecer de una razón suficiente de validez.
+
+### 
+
+### ENUNCIADO IV: El Mapeo de Transducción Jurisprudencial
+
+- **Ámbito de Demostración Lógica:** Se evidencia el punto ciego del
+  formalismo secular que califica la defensa de la identidad
+  constitucional como una mera "retórica moral o política". Esta
+  perspectiva fragmentaria pretende forzar la ejecución automática de
+  compromisos desalineados mediante la omisión del examen de competencia
+  material del agente que suscribió el acuerdo en el plano exterior.
+
+- **Ámbito de Demostración Lógica (Consecuencia Estructural):** Se
+  constata la correspondencia analítica que vincula la Causa (A) con el
+  Poder Constituyente / Coto Vedado Material, y el Efecto (B) con el
+  Poder Constituido / Cláusula de Cumplimiento. Dentro de esta
+  geometría, el **Artículo 46 de la Convención de Viena opera como el
+  indicador visible de la ruptura de la causa**. Su presencia no es un
+  castigo judicial, sino la señal empírica de que la invasión al núcleo
+  fundamental constituye una infracción manifiesta que interrumpe el
+  flujo de validez del consentimiento desde su origen cronológico.
+
+### **ENUNCIADO V: Constatación de Inexistencia por Vacío Coherente**
+
+- **Ámbito de Demostración Lógica:** Se observa la pretensión teórica de
+  degradar la defensa de la Constitución a una simple "inaplicabilidad
+  blanda o de conveniencia temporal" para evitar fricciones en las
+  relaciones exteriores. Esta postura pasa por alto el absurdo lógico de
+  asumir la existencia real y duradera de una obligación formal cuyo
+  soporte de validez sustancial ha sido suprimido.
+
+- **Ámbito de Demostración Lógica (Consecuencia Estructural):** Se
+  concluye analíticamente que la consecuencia de quebrantar la Ley
+  Universal de Precedencia Causal no es una penalización punitiva, sino
+  la desmaterialización de la norma secundaria. El ordenamiento interno
+  no ejecuta un desacato político arbitrario; simplemente registra una
+  **constatación de inexistencia por vacío coherente**. Al carecer de
+  transferencia legítima de competencia desde la base, el tratado se
+  muestra desprovisto de sustancia vinculante en el foro doméstico,
+  quedando el coto vedado protegido por el propio peso de su primacía
+  original.
+
+### 
+
+## SECCIÓN III: CONCLUSIÓN DEL DIAGNOSTICÓ CIENTÍFICO Y APERTURA DE TRADUCCIÓN
+
+**Motivo:** La necesidad imperativa de proteger la fuente primigenia del
+ordenamiento interno contra el fraude fiduciario de los agentes
+constituidos que entregaron competencias indisponibles en el foro
+exterior, pretendiendo escudarse en el formalismo internacional
+adjetivo.
+
+**Resultado:** La demostración matemática y óntica de que la sumisión
+absoluta al Artículo 27 de la Convención de Viena constituye un absurdo
+científico insostenible. Al fracturarse la flecha de la causalidad
+lineal, el tratado internacional carece de soporte material de validez,
+operando como un acto afectado de invalidez congénita y nulidad absoluta
+dentro de la jurisdicción local.
+
+Habiéndose verificado de forma inatacable el error de fondo mediante el
+peso geométrico de la Ley Superior del Universo, el diagnóstico
+científico queda cerrado. Cumplido este hito de ingeniería conceptual,
+**se procederá de inmediato a la traducción formal al ámbito
+dogmático-jurídico secular**, vistiendo esta verdad inmutable con las
+categorías procesales de la jurisprudencia constitucional avanzada para
+su directa interpretación y aplicación coercitiva por parte de los
+tribunales de la República.
+
+### 
+
+## 19. TRANSDUCCIÓN MATRICIAL DE LA CONSTANTE UNIVERSAL AL ÁMBITO DOGMÁTICO-JURÍDICO
+
+## 
+
+### SECCIÓN I: PLANTEAMIENTO INTERSISTÉMICO DE TRANSDUCCIÓN
+
+**(Correspondencia de la Norma Fundamental frente a la Regla de
+Reconocimiento)**
+
+La **transducción** consiste en proyectar la señal inalterable de la Ley
+Universal de Precedencia Causal hacia el dominio del derecho positivo,
+demostrando que las categorías de la supremacía constitucional no son
+invenciones contingentes, sino el reflejo directo de un diseño superior
+donde la fuente generatriz delimita y gobierna de manera absoluta al
+producto derivado.
+
+El problema en el plano secular se configura cuando el positivismo
+internacionalista pretende forzar en el Artículo 27 de la Convención de
+Viena una autonomía auto fundada. Al desvincular el tratado del flujo de
+validez que le insufla la Constitución interna, se genera una fricción
+patológica: la pretensión de que una norma adjetiva y delegada posea la
+fuerza jurídica de extinguir o reformar el núcleo indisponible de su
+propia matriz de origen.
+
+Para evidenciar esta falta de consistencia sin asumir facultades
+jurisdiccionales, se ejecuta el bucle de doble validación, operando como
+un receptor analítico que constata cómo la Ley Mayor subordina y
+pacífica de forma natural a la ley menor para la preservación del orden
+sistémico.
+
+### 
+
+### SECCIÓN II: DESARROLLO DEL ACOPLAMIENTO DOGMÁTICO
+
+**(Esquema de Control de Arquitectura Argumental bajo el Bucle de
+Transducción)**
+
+### 
+
+### ENUNCIADO I: El Principio de Regularidad Jerárquica Genética
+
+- **Ámbito de Demostración Lógica:** Se constata una discontinuidad
+  analítica en las corrientes monistas que aíslan el texto convencional
+  de su proceso de formación. Al omitir el examen de validez del
+  consentimiento original, el formalismo transnacional asume
+  erróneamente que una disposición derivada posee imperio independiente
+  de la norma primaria de reconocimiento que la habilitó.
+
+- **Ámbito de Demostración Lógica (Consecuencia Estructural):** La
+  transducción dogmática revela el funcionamiento del axioma
+  irreversible de validez:
+
+B $`\leq`$ A
+
+> Donde el **Poder Constituyente Originario / Coto Vedado Material (A)**
+> predetermina el alcance y restringe la competencia material del
+> **Poder Constituido / Agente Diplomático (B)**. Lo invisible —el
+> diseño competencial y la reserva de soberanía popular— gobierna
+> permanentemente sobre lo visible —el texto del instrumento
+> internacional—, haciendo que la norma periférica dependa en todo
+> momento de la persistencia de su fuente nutricional.
+
+### 
+
+### ENUNCIADO II: La Incompatibilidad del Monismo Absolutista
+
+- **Ámbito de Demostración Lógica:** Se identifica un fallo de diseño en
+  la interpretación absoluta del Artículo 27 de la Convención de Viena,
+  el cual pretende actuar como un blindaje de impunidad frente a actos
+  *ultra vires*. Exigir el cumplimiento forzoso de un tratado que ha
+  invadido la identidad constitucional local plantea un escenario donde
+  el efecto gobierna a la causa:
+
+> B \> A
+
+- **Ámbito de Demostración Lógica (Consecuencia Estructural):** El
+  análisis científico del derecho expone que la regla secundaria carece
+  de aptitud óntica para subvertir el orden público constitucional. Al
+  intentar que el mandato fiduciario delegante anule las limitaciones de
+  la norma habilitante, el compromiso internacional destruye la base
+  contractual de su propia obligatoriedad. La ley menor decae por falta
+  de masa jurídica ante el peso específico de la norma fundamental de
+  competencia.
+
+### ENUNCIADO III: La Ineficacia del Título Defensivo Derivado
+
+- **Ámbito de Demostración Lógica:** Se aísla el razonamiento
+  tautológico de los organismos internacionales que utilizan el literal
+  del Artículo 27 como justificación única de imperio. Sostener que el
+  derecho interno no es invocable frente al incumplimiento constituye
+  una defensa circular, pues toma el texto de la propia transgresión
+  competencial como la razón suficiente para validar su vigencia.
+
+- **Ámbito de Demostración Lógica (Consecuencia Estructural):** Se
+  evidencia la inoponibilidad del escudo formal convencional en el foro
+  doméstico. Cuando un compromiso exterior quebranta la matriz
+  jerárquica, la justificación de dicho quebrantamiento no es motivo
+  suficiente para sostener su exigibilidad. La infracción del diseño
+  original priva al objeto del acuerdo de licitud sustancial; por
+  consiguiente, la regla menor queda desprovista de fuerza de imperio
+  ante la ausencia de una cadena causal legítima.
+
+### 
+
+### ENUNCIADO IV: El Isomorfismo de la Infracción Manifiesta
+
+- **Ámbito de Demostración Lógica:** Se observa el punto ciego de la
+  exegesis transnacional que etiqueta la defensa de la supremacía
+  constitucional como una anomalía fáctica o política. Esta perspectiva
+  promueve una ceguera deliberada que busca omitir el examen de
+  capacidad jurídica del agente que suscribió el acuerdo, forzando la
+  asimilación de un consentimiento genéticamente viciado.
+
+- **Ámbito de Demostración Lógica (Consecuencia Estructural):** Se
+  verifica el isomorfismo técnico que acopla la ley universal a la
+  codificación secular: **el Artículo 46 de la Convención de Viena opera
+  como el sensor visible de la fractura causal**. Al estipular que el
+  consentimiento es nulo si se violó una norma interna de importancia
+  fundamental relativa a la competencia, el propio derecho internacional
+  reconoce la primacía de la Causa (A) sobre el Efecto (B). La lesión al
+  coto vedado constitucional se traduce en una violación manifiesta
+  intrínseca que desautoriza el compromiso desde su origen cronológico.
+
+### 
+
+### ENUNCIADO V: Ineficacia de Pleno Derecho por Vacío Competencial
+
+- **Ámbito de Demostración Lógica:** Se detecta la insuficiencia
+  dogmática de las teorías de la "inaplicabilidad parcial o temporal",
+  las cuales asumen que un tratado que violó la Constitución retiene una
+  existencia válida en el plano internacional y solo queda suspendido en
+  el plano local.
+
+- **Ámbito de Demostración Lógica (Consecuencia Estructural):** Se
+  concluye descriptivamente que la consecuencia de violar la Ley de
+  Precedencia Causal es la **ineficacia de pleno derecho por vacío
+  coherente**. El ordenamiento interno no incurre en una rebeldía
+  arbitraria; simplemente registra que la obligación transnacional
+  carece de título habilitante para nacer a la vida jurídica. Al no
+  existir transferencia legítima de competencias desde la causa
+  original, el tratado se encuentra vacío de sustancia vinculante,
+  quedando la fisonomía de la orden constitucional herméticamente
+  protegida por el peso inmutable de su diseño primigenio.
+
+### 
+
+### SECCIÓN III: CONCLUSIÓN FORENSE DE CLAUSURA
+
+**(Diagnóstico Final de la Transducción)**
+
+**Constatación de la Falta:** La pretensión de otorgar un alcance
+absolutista al Artículo 27 de la Convención de Viena frente a normas
+constitucionales de competencia material representa una quiebra en la
+secuencia de validez de la teoría general del derecho. Un agente
+constituido carece de la potestad de enajenar parcelas indisponibles de
+la soberanía popular; por ende, el acuerdo celebrado bajo fraude
+fiduciario carece de causa lícita.
+
+**Manifestación de la Subordinación:** La transducción Intersistémica
+demuestra que el derecho positivo está condicionado por las leyes de la
+lógica y la causalidad universal. Al activarse el indicador del Artículo
+46 de la misma Convención, la regla menor de cumplimiento cede ante la
+Ley Superior de la competencia de origen. El resultado analítico es el
+desplazamiento e ineficacia del compromiso desalineado, restableciendo
+el equilibrio y la regularidad geométrica del sistema normativo para la
+preservación del orden y la justicia sustancial, reflejando fielmente el
+diseño en el cual subsisten y para el cual fueron hechas todas las
+cosas.
+
+**20. TRANSDUCCIÓN DE ANTECEDENTES HISTÓRICOS DE REGULARIDAD SISTÉMICA**
+
+### (Análisis Comparado de Correspondencia)
+
+### ANTECEDENTE I: El Principio de No-Contradicción Estructural (*Dr. Bonham's Case*, 1610)
+
+- **Ámbito de Demostración Lógica:** Las corrientes exegéticas
+  tradicionales intentan reducir este hito a una mera regla arcaica de
+  interpretación estatutaria o a un conflicto insular de prerrogativas
+  corporativas en la Inglaterra del siglo XVII, ignorando el sustrato
+  lógico fundamental que lo sostiene.
+
+- **Ámbito de Demostración Lógica (Consecuencia Estructural):** Sir
+  Edward Coke ejecutó la transducción directa del **Principio Universal
+  de No-Contradicción** al derecho positivo. Al constatar que un Acto
+  del Parlamento pretendía facultar a un cuerpo médico para ser juez y
+  parte en su propia causa, determinó que dicha norma era nula por ser
+  repugnante al derecho común y a la razón. El análisis expone que una
+  ley menor humana no puede validar un absurdo lógico dentro del
+  sistema; ante la presencia de la constante de no-contradicción, la
+  regla positiva caprichosa se desmaterializa por su propia inviabilidad
+  estructural.
+
+### ANTECEDENTE II: La Ley de Dependencia Causal Cúspide (*Marbury v. Madison*, 1803)
+
+- **Ámbito de Demostración Lógica:** El realismo jurídico secular suele
+  calificar este precedente como una maniobra de estrategia política de
+  la judicatura norteamericana para fundar el control judicial de
+  constitucionalidad, despojando al fallo de su naturaleza científica e
+  isomórfica.
+
+- **Ámbito de Demostración Lógica (Consecuencia Estructural):** El Juez
+  John Marshall plasmó con precisión forense la **Ley de la Causalidad
+  Lineal e Irreversible** (\$B \le A\$). El razonamiento descriptivo del
+  fallo demostró que una ley ordinaria del Congreso (efecto derivado) no
+  puede alterar ni flexibilizar una Constitución escrita (causa
+  constituyente). Si el efecto poseyera la entidad jurídica de modificar
+  a su propia causa, el diseño original carecería de razón suficiente y
+  el ordenamiento colapsaría en el caos. La transducción jurisprudencial
+  ratifica que la Causa Primaria subordina permanentemente a la norma
+  derivada, operando esta última como una nulidad absoluta en el
+  instante en que pretende rebelarse contra su fuente de validez.
+
+### ANTECEDENTE III: El Control de Identidad Sustancial y Doctrina *Ultra Vires* (Tribunal Constitucional Federal Alemán)
+
+- **Ámbito de Demostración Lógica:** Las posturas internacionalistas
+  dogmáticas interpretan el "Control de Identidad"
+  (*Identitätskontrolle*) y el examen de los actos *ultra vires* frente
+  al derecho transnacional como una resistencia soberanista de corte
+  político, evadiendo el diagnóstico técnico del flujo competencial.
+
+- **Ámbito de Demostración Lógica (Consecuencia Estructural):** La
+  magistratura constitucional avanzada (en sus célebres pronunciamientos
+  sobre los Tratados de Maastricht, Lisboa y las resoluciones del Banco
+  Central Europeo) constata la **Ley de Conservación de la Fuente
+  Generatriz**. El derecho internacional de la Unión Europea no posee
+  generación espontánea; su energía y validez provienen del cable
+  conductor del acto de ratificación bajo los límites de la Ley
+  Fundamental local. Si una norma transnacional pretende vaciar de
+  contenido la identidad constitucional o rebasar las competencias
+  expresamente delegadas, se configura un vacío de poder fiduciario. Al
+  cortarse el flujo causal de validez, el tribunal registra de forma
+  descriptiva la ineficacia local del mandato externo, restableciendo la
+  asimetría y el blindaje del núcleo duro del Estado de Derecho.
+
+## 21. Nota Aclaratoria de Naturaleza Doctrinal y Alcance Conceptual
 
 El presente documento no constituye un acto legislativo, una imposición
 normativa de carácter vinculante, ni el ejercicio de una facultad
@@ -2017,7 +2523,7 @@ profesionales del derecho y a las autoridades constituidas de cada
 Estado evaluar la viabilidad material, la adopción y la transposición
 procesal de los conceptos aquí desarrollados.
 
-## 17. Cláusula de Disponibilidad Pública Universal y Bien Común (Copyleft Jurisprudencial)
+## 22. Cláusula de Disponibilidad Pública Universal y Bien Común (Copyleft Jurisprudencial)
 
 El autor y titular originario de la conceptualización, matriz lógica y
 estructura argumentativa contenida en este instrumento, declara la
