@@ -292,7 +292,91 @@ internacionales, las cuales se ven forzadas a negociar.</p></td>
 
 ## 
 
-## 7. Nota Aclaratoria de Naturaleza Doctrinal y Alcance Conceptual
+## 7. Fundamentación Teórica del Coto Vedado
+
+Para evitar la tendencia secular de la burocracia judicial de "darle
+vueltas al asunto" mediante debates abstractos, el problema se delimita
+introduciendo un vector geométrico y objetivo: **los límites materiales
+implícitos al poder de reforma (Identidad Constitucional)**.
+
+Aun en el supuesto de que un Estado intente reformar su propia
+Constitución para armonizarla con una agenda o tratado internacional,
+existen núcleos axiológicos intangibles—denominados en la doctrina
+clásica como cláusulas pétreas o el "coto vedado"—que se resisten a
+cualquier intento de supresión. Estos límites materiales incluyen:
+
+- La dignidad y los derechos ontológicos e inalienables del individuo.
+
+- La soberanía popular como fuente exclusiva de legitimidad.
+
+- La estructura y separación básica de los poderes públicos del Estado.
+
+Un tratado internacional que pretenda exigir el sacrificio de estas
+piezas fundamentales mediante la coacción del Artículo 27 de Viena no
+está expandiendo el derecho internacional; está ejecutando una
+**sustitución encubierta de la Constitución**. Si el núcleo de la
+identidad democrática y civil de una nación es inaccesible para sus
+propios legisladores internos, es jurídicamente imposible que sea
+transferido, modificado o anulado por burócratas extranjeros carentes de
+legitimidad democrática directa.
+
+**8. Precedente Jurisprudencial de Soporte (Test de Sustitución)**
+
+- **El Test de Sustitución de la Constitución (Corte Constitucional de
+  Colombia):** En el ámbito hispanohablante, la Corte Constitucional de
+  Colombia ha estructurado un mecanismo procesal avanzado aplicable al
+  control de tratados:
+
+  - **Sentencia C-551 de 2003:** La Corte definió que, si bien el
+    Congreso puede reformar la Constitución, carece de competencia para
+    *sustituirla* o subvertir sus ejes definitorios jurídicos. Esta
+    doctrina, extendida al control de los tratados internacionales,
+    prescribe que cualquier acuerdo internacional que desplace o anule
+    de manera estructural un principio fundante de la Carta Política
+    (como la separación de poderes o la dignidad humana) incurre en un
+    vicio de competencia del órgano que lo ratificó, determinando su
+    inconstitucionalidad por vía de control difuso o concentrado.
+
+### 
+
+### **9. La Sintaxis Operativa bajo el Principio de *Lex Superior y/o* Silogismo Jurídico de Causalidad**
+
+A la luz de la mecánica real y los axiomas del derecho natural, la
+contradicción se resuelve aplicando el principio de universalidad: **la
+norma creadora siempre prevalece sobre la norma creada (*Lex Superior
+derogat legi inferiori*)**.
+
+**Replanteamiento del Problema en un solo Silogismo Jurídico:**
+
+Si la validez del consentimiento de un Estado para obligarse por un
+tratado internacional emana exclusivamente de su Constitución, entonces
+el tratado es un producto derivado y jerárquicamente inferior a la Carta
+Magna. Por lo tanto, el Artículo 27 de la Convención de Viena no puede
+ser interpretado como una patente de corso para exigir la sumisión
+incondicional del Estado cuando la directriz transnacional atenta contra
+el núcleo duro de su identidad constitucional. Hacerlo implica validar
+un absurdo lógico: que el objeto creado tiene la facultad jurídica de
+destruir a su propio creador.
+
+**10. Regla de Competencia Material Absoluta**
+
+- **El Eje de la Resistencia:** Se introduce el axioma de que el Poder
+  Constituyente Originario (el pueblo) establece un perímetro de
+  seguridad jurídica inalterable: la **Identidad Constitucional**.
+
+- **Aplicación de la *Lex Superior*:** Si el poder de reforma interno
+  tiene prohibido destruir el núcleo del Estado (los derechos
+  fundamentales, el orden natural y la separación de poderes), por
+  transitividad jurídica, un tratado internacional tiene doblemente
+  prohibido hacerlo. La doctrina del "coto vedado" opera aquí como un
+  escudo de geometría legal. No se trata de un debate ideológico; es una
+  regla de competencia material absoluta: **el mandatario no puede
+  entregar lo que no le pertenece**. Todo tratado que colisione con este
+  núcleo es, por definición de los primeros principios, un acto nulo por
+  carecer el emisor de la facultad fáctica de disposición sobre el
+  objeto.
+
+## 11. Nota Aclaratoria de Naturaleza Doctrinal y Alcance Conceptual
 
 El presente documento no constituye un acto legislativo, una imposición
 normativa de carácter vinculante, ni el ejercicio de una facultad
@@ -314,7 +398,7 @@ profesionales del derecho y a las autoridades constituidas de cada
 Estado evaluar la viabilidad material, la adopción y la transposición
 procesal de los conceptos aquí desarrollados.
 
-## 8. Cláusula de Disponibilidad Pública Universal y Bien Común (Copyleft Jurisprudencial)
+## 12. Cláusula de Disponibilidad Pública Universal y Bien Común (Copyleft Jurisprudencial)
 
 El autor y titular originario de la conceptualización, matriz lógica y
 estructura argumentativa contenida en este instrumento, declara la
