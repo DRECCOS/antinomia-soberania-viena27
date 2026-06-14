@@ -428,7 +428,110 @@ exterior posterior tenga la potencia destructiva para anular el núcleo
 del derecho interno originario es subvertir por completo la flecha
 lineal del tiempo y la jerarquía de las fuentes del derecho.
 
-## 13. Nota Aclaratoria de Naturaleza Doctrinal y Alcance Conceptual
+### **13. Estatuto de armonización y límites a la competencia internacional**
+
+**I. El Axioma de Causalidad y la Legitimidad del Consentimiento (*Lex
+Superior derogat legi inferiori*)**
+
+El principio rector que dirime la aparente antinomia entre el orden
+internacional y la soberanía interna reposa sobre la regla inmutable de
+la causalidad jurídica: el tratado es un instrumento derivado; la
+Constitución es su fuente habilitante. Todo acuerdo internacional
+requiere, como condición *sine qua non* para su validez material, el
+consentimiento del Estado. Dicho consentimiento emana exclusivamente de
+las facultades delegadas por la norma fundamental a los poderes
+constituidos. Por consiguiente, bajo el silogismo de primeros principios
+(donde el mandatario no posee mayor autoridad que el mandante), el poder
+derivado carece de aptitud jurídica para suscribir un pacto que derogue,
+mutile o subordine la norma suprema que le otorga su propia existencia.
+Pretender que el Artículo 27 de la Convención de Viena imponga la
+ejecución de directrices que disuelven la identidad constitucional
+equivale a validar un acto *ultra vires* y una ruptura del orden
+fiduciario del Estado.
+
+**II. La Armonización del Principio *Pacta Sunt Servanda***
+
+La presente doctrina de límites constitucionales no constituye un
+rechazo al derecho internacional ni un fomento al incumplimiento
+arbitrario de los tratados (*pacta sunt servanda*). Por el contrario,
+exige la máxima pureza en las relaciones internacionales. El deber
+ineludible de cumplir de buena fe lo pactado presupone la preexistencia
+de un pacto lícito. Si una obligación transnacional colisiona contra el
+núcleo esencial o "coto vedado" del Estado, el consentimiento originario
+adolece de nulidad por incompetencia manifiesta (Artículo 46 de la
+Convención de Viena). En tales escenarios, la inaplicación de la norma
+internacional por parte de los tribunales domésticos no es una rebeldía,
+sino una declaratoria técnica de inexistencia de la obligación,
+preservando así la paz jurídica y la certeza del Estado de Derecho.
+
+**III. Precedente Jurisprudencial Comparado: La Evidencia Material de la
+Identidad Constitucional**
+
+La consolidación de los límites materiales a la integración
+internacional no es una construcción teórica aislada, sino un estándar
+jurídico aplicado pacíficamente por las más altas magistraturas de la
+civilización occidental para proteger su orden interno. A título de
+evidencia dogmática, destacan:
+
+- **Tribunal Constitucional Federal de Alemania (Casos *Solange,
+  Maastricht, PSPP*):** Consagró la doctrina del control de identidad
+  (*Identitätskontrolle*) y el control de actos ultra vires,
+  determinando que los mandatos de la Unión Europea carecen de
+  aplicación interna si vulneran el núcleo de la Ley Fundamental de Bonn
+  o si el ente internacional excede las competencias estrictamente
+  cedidas.
+
+- **Corte Constitucional de Italia (Doctrina de los *Controlímites* -
+  Casos *Frontini y Taricco*):** Estableció que la primacía del derecho
+  internacional se detiene frente a los principios supremos del
+  ordenamiento constitucional y los derechos inalienables de la persona.
+
+- **Corte Constitucional de Colombia (Doctrina de la *Sustitución de la
+  Constitución*):** Determinó que ni siquiera mediante el poder de
+  reforma (y menos aún por vía de un tratado) es lícito reemplazar los
+  ejes axiológicos fundacionales del Estado, decretando la
+  inexequibilidad de compromisos transnacionales que alteren dicho
+  núcleo.
+
+**IV. Test Operativo de Control y Desplazamiento Normativo**
+
+Para garantizar la seguridad jurídica y la resolución pacífica de
+controversias, la objeción de jerarquía debe someterse a un escrutinio
+judicial riguroso y secuencial ante cualquier colisión normativa:
+
+1.  **Fase de Identificación:** Precisar la directriz internacional
+    exigida y la norma constitucional presuntamente afectada.
+
+2.  **Fase de Materialidad:** Determinar si la norma constitucional
+    vulnerada pertenece al "coto vedado" (derechos inalienables,
+    estructura del Estado, soberanía popular).
+
+3.  **Fase de Subsunción:** Evaluar si la aplicación del mandato
+    internacional constituye una limitación razonable dentro de la
+    esfera de competencias transferidas, o si representa una subversión
+    estructural de la Carta Magna (*ultra vires*).
+
+4.  **Fase de Resolución:** Si la medida transnacional altera el núcleo
+    esencial, el juez, aplicando el control difuso de
+    constitucionalidad, procederá al desplazamiento (inaplicación) de la
+    norma extranjera en el caso concreto, restituyendo el imperio de la
+    Ley Superior doméstica, sin necesidad de declarar la denuncia del
+    tratado en su totalidad.
+
+**V. Cláusula de Salvaguarda Absoluta: La Intangibilidad del *Jus
+Cogens***
+
+En estricta observancia del orden natural, la invocación de la soberanía
+o de la identidad constitucional jamás podrá ser esgrimida como
+mecanismo de evasión, escudo o excusa jurídica para incumplir normas de
+carácter imperativo universal (*Jus Cogens*). La prohibición de la
+esclavitud, el genocidio, la tortura, los crímenes de lesa humanidad y
+la protección inherente a la dignidad humana constituyen el peldaño
+supremo de la *Lex Superior*. Frente a la defensa del derecho natural a
+la vida y la integridad ontológica, la soberanía del Estado no es
+oponible; es, por el contrario, garante y servidora de dichos axiomas.
+
+## 14. Nota Aclaratoria de Naturaleza Doctrinal y Alcance Conceptual
 
 El presente documento no constituye un acto legislativo, una imposición
 normativa de carácter vinculante, ni el ejercicio de una facultad
@@ -450,7 +553,7 @@ profesionales del derecho y a las autoridades constituidas de cada
 Estado evaluar la viabilidad material, la adopción y la transposición
 procesal de los conceptos aquí desarrollados.
 
-## 14. Cláusula de Disponibilidad Pública Universal y Bien Común (Copyleft Jurisprudencial)
+## 15. Cláusula de Disponibilidad Pública Universal y Bien Común (Copyleft Jurisprudencial)
 
 El autor y titular originario de la conceptualización, matriz lógica y
 estructura argumentativa contenida en este instrumento, declara la
